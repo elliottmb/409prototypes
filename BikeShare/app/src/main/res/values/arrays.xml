@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinnerthings">
+        <item>Hub 1</item>
+        <item>Hub 2</item>
+        <item>Hub 3</item>
+    </string-array>
+</resources>

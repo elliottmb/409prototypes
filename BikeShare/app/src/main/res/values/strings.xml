@@ -25,4 +25,8 @@
     <string name="title_activity_navigation__menu">Navigation_Menu</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
+    <string name="descrition">Description</string>
+    <string name="maintenance">Send</string>
+    <string name="check">Did you recently use this bike?</string>
+    <string name="account">Delete Account</string>
 </resources>

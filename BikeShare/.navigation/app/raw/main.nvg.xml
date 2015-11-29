@@ -88,8 +88,8 @@
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
         className = "edu.iastate.bikeshare.Maintenance"/>
       <point      
-        x = "840"      
-        y = "3252"/>
+        x = "1292"      
+        y = "1620"/>
     </statePointEntry>
   </locations>
 </navigationModel>
