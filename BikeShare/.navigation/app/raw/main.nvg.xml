@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "edu.iastate.bikeshare.Move_Requests"/>
+      <point      
+        x = "2660"      
+        y = "1612"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "edu.iastate.bikeshare.ItemDetailActivity"/>
+      <point      
+        x = "500"      
+        y = "1480"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "edu.iastate.bikeshare.Navigation_Menu"/>
+      <point      
+        x = "272"      
+        y = "1696"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "edu.iastate.bikeshare.Navigation_Menu"/>
+      <point      
+        x = "2288"      
+        y = "3124"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "edu.iastate.bikeshare.ItemListActivity"/>
+      <point      
+        x = "550"      
+        y = "1530"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "edu.iastate.bikeshare.LoginActivity"/>
+      <point      
+        x = "504"      
+        y = "148"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "edu.iastate.bikeshare.HomePage"/>
+      <point      
+        x = "1772"      
+        y = "152"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "edu.iastate.bikeshare.HomePage"/>
+      <point      
+        x = "1768"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "edu.iastate.bikeshare.Hub_Details"/>
+      <point      
+        x = "3080"      
+        y = "160"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "edu.iastate.bikeshare.Account"/>
+      <point      
+        x = "2116"      
+        y = "3056"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "edu.iastate.bikeshare.Maintenance"/>
+      <point      
+        x = "840"      
+        y = "3252"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
