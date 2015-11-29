@@ -14,4 +14,15 @@ public class Account extends AppCompatActivity {
         getSupportActionBar().setTitle("Account");
         setContentView(R.layout.activity_account);
     }
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                return true;
+        }
+
+        return super.onOptionsItemSelected(item);
+    }
+
 }

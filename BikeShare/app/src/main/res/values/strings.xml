@@ -29,4 +29,6 @@
     <string name="maintenance">Send</string>
     <string name="check">Did you recently use this bike?</string>
     <string name="account">Delete Account</string>
+    <string name="bike">Request Bike</string>
+    <string name="request">Current Bikes for Hub 1</string>
 </resources>

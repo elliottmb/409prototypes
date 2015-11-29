@@ -2,6 +2,7 @@ package edu.iastate.bikeshare;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.ExpandableListView;
 import android.widget.LinearLayout;
@@ -21,6 +22,17 @@ public class Move_Requests extends AppCompatActivity {
         screen = (LinearLayout) findViewById(R.id.linearLayout);
         setupView();
     }
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                return true;
+        }
+
+        return super.onOptionsItemSelected(item);
+    }
+
 
     private void setupView(){
         for(int i = 0; i< 10; i++){
